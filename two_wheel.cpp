@@ -1,5 +1,5 @@
 //
-// Created by Руслан Шаяхметов on 20/12/22.
+// Created by Ruslan Shaiakhmetov on 20/12/22.
 //
 
 #include "two_wheel.h"
